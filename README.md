@@ -1,4 +1,4 @@
-# Weather-Notif
+# Weather Notif
 
 A short program in Python to receive weather updates on your phone using Twilio and WUnderground.
 
